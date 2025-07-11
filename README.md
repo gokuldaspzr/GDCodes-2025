@@ -1,2 +1,2 @@
-# GDCodes-2025
-GDCodes-2025
+# GDRepository-2025
+GDRepository-2025
